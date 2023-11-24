@@ -5,6 +5,7 @@
 # distro secara manual
 
 MY_CHROOT=/mnt
+ERROR="Input yang anda masukkan salah tekan enter untuk kembali"
 
 MOUNT () {
 clear
@@ -52,7 +53,7 @@ Proses mount berhasil, apakah ingin mount partisi lain ?
         exit
         ;;
         *) read -p "
-Input yang anda masukkan salah tekan enter untuk kembali" ret
+$ERROR" ret
             case $ret in
                 *) MOUNT
                 ;;
