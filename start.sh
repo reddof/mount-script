@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# Script sederhana ini saya buat untuk memudahkan kita mount
-# partisi yang kita punya sebelum kita install
+# Script sederhana ini saya buat untuk memudahkan saya untuk mount
+# partisi yang saya punya sebelum kita install
 # distro secara manual
 
 MY_CHROOT=/mnt
