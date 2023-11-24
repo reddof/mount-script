@@ -1,3 +1,3 @@
 # mount-script
 
-Script sederhana ini saya buat untuk memudahkan kita mount partisi yang kita punya sebelum kita install distro secara manual misalnya sebelum kita install Arch Linux.
+Script sederhana ini saya buat untuk memudahkan saya mount partisi yang saya punya sebelum saya install distro secara manual misalnya sebelum saya install Arch Linux.
